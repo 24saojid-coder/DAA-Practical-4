@@ -12,7 +12,7 @@ window accordingly. Your implementation should handle various cases, including s
 where there&#39;s no feasible subarray given the constraint and scenarios where multiple
 subarrays yield the same maximum resource utilization.
 
-Code : 
+Code Link : https://www.programiz.com/online-compiler/72kGQUKi2fMG0
 
 Submission on leetcode:
 <img width="1510" height="672" alt="Screenshot 2025-09-04 130137" src="https://github.com/user-attachments/assets/5e9dbb11-0e36-4ffe-8580-b823fa121c32" />
